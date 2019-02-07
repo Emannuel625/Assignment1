@@ -1,5 +1,4 @@
-Hello world <br>
+function myFunction() {
+  alert("I am excited to do Informatics because it is cool");
 
-<button onclick="myFunction();">Reason</button>
-
-<script src="site.js"></scrpt>
+}
